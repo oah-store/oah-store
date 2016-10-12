@@ -1,4 +1,4 @@
-# oah-store
+# OAH-Store
 OpenAppHack-Store (OAH-Store) is a Drupal Distribution for Digital Store.
 
 This Digital Store can be installed on a RPI cluster or standalone RPI.
